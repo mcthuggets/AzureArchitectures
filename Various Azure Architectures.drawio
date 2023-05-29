@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T12:57:54.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eBhk5Sz2kZ4xlKeG1cBy" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T13:24:54.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HauwB2p08w5J2aBhk1I6" version="21.3.5" type="github">
   <diagram name="Page-1" id="pLBHRt27ivOksxlhdlx6">
     <mxGraphModel dx="1050" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,19 +70,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wj9Va1_H9lN5sTpoG72n-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-120" width="50" height="41" as="geometry" />
+          <mxGeometry x="450" y="-123" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Wj9Va1_H9lN5sTpoG72n-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="543.3299999999999" y="89" width="56.67" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wj9Va1_H9lN5sTpoG72n-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Container_Instances.svg;" vertex="1" parent="1">
-          <mxGeometry x="431.47" y="-60" width="37.65" height="40" as="geometry" />
+          <mxGeometry x="456.17" y="-60" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wj9Va1_H9lN5sTpoG72n-27" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
-          <mxGeometry x="433.69" y="14.4" width="32.61" height="30" as="geometry" />
+          <mxGeometry x="458.69" y="12.2" width="32.61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wj9Va1_H9lN5sTpoG72n-30" value="Microservice" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_blank" vertex="1" parent="1">
-          <mxGeometry x="530" y="-116.4" width="40" height="34.4" as="geometry" />
+          <mxGeometry x="540" y="-120" width="40" height="34.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
